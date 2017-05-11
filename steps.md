@@ -135,8 +135,9 @@ import { LayoutActions } from "../shared/layout.actions";
 ...
 
 constructor(
-    private ngRedux: NgRedux<IAppState>,
-    private layoutActions: LayoutActions) {}
+  ...
+  private ngRedux: NgRedux<IAppState>,
+  private layoutActions: LayoutActions) {}
 
 ```
 
@@ -161,6 +162,24 @@ This is enough to change our state, from showSearchBox: false to true. You can d
 Now let's say I want to close that search box from another component (navSearch).
 
 > Plus: we will add animations to show/hide the search box
+> Be sure to import your reducers, state and actions to this component too and construct your component with them
+
+```
+import { NgRedux, select } from 'ng2-redux';
+import { IAppState } from '../../store';
+import { LayoutActions } from "../../shared/layout.actions";
+
+...
+
+constructor(
+  ...
+  private ngRedux: NgRedux<IAppState>,
+  private layoutActions: LayoutActions) {}
+  
+```
+
+
+
 
 
 
