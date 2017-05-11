@@ -1,5 +1,5 @@
-# angular-redux
-> I'm working with ng2-redux
+# angular-redux search box example
+> I'm working with [ng2-redux]
 
 #### Intro
 First question I made myself:
@@ -101,8 +101,8 @@ export function reducer (state = initialState, action) {
 }
 ```
 
-Now create your auxiliary functions ( showSearchBox and hideSearchBox ).
-Here we recreate our state changing only that part that we need (searchBox)
+Now we create auxiliary functions ( showSearchBox and hideSearchBox ).
+Here we recreate our state using pure functions, changing only that part of the state that we need (searchBox)
 
 ```
 function showSearchBox(state, action): IAppState {
@@ -121,11 +121,11 @@ function hideSearchBox(state, action): IAppState {
 ```
 
 #### Component
-Now you need to trigger that actions [from your component(s)] by calling the functions we created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
+Now you need to trigger that actions [from your component(s)] by calling the functions created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
 
-Lets say we want to call showSearchBox method ( from layoutActions.ts file ) on click a button on header.component.html
+Lets say we want to call showSearchBox method ( from layoutActions.ts file ) by clicking a button on header.component.html
 
-> remember to import your reducers, state and actions and construct your component with them
+> remember to import your store, state and actions and construct your component with them
 
 ```
 import { NgRedux } from 'ng2-redux';
@@ -162,7 +162,7 @@ This is enough to change our state, from showSearchBox: false to true. You can d
 Now let's say I want to close that search box from another component (navSearch).
 
 > Plus: we will add animations to show/hide the search box
-> Be sure to import your reducers, state and actions to this component too and construct your component with them
+> Be sure to import your store, state and actions to this component too and construct your component with them
 
 ```
 import { NgRedux, select } from 'ng2-redux';
@@ -183,5 +183,5 @@ constructor(
 
 
 
-
+[ng2-redux]: <https://www.npmjs.com/package/ng2-redux>
 
