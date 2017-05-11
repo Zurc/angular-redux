@@ -36,11 +36,11 @@ export class LayoutActions {
     ) {}
 
     showSearchBox() {
-        this.ngRedux.dispatch({type: SHOW_SEARCHBOX, showSearchBox: true })
+        this.ngRedux.dispatch({type: SHOW_SEARCHBOX, searchBox: true })
     }
 
     hideSearchBox() {
-        this.ngRedux.dispatch({type: HIDE_SEARCHBOX, showSearchBox: false })
+        this.ngRedux.dispatch({type: HIDE_SEARCHBOX, searchBox: false })
     }
 
 }
@@ -52,7 +52,7 @@ Now I need to update my IAppState interface ( IAppState.ts file )
 ```
 export interface IAppState {
     ...
-    showSearchBox: boolean;
+    searchBox: boolean;
 }
 ```
 
@@ -65,7 +65,7 @@ update your initialState to include showSearchBox ( I want this to initialize hi
 ```
 const initialState: IAppState = {
     ...
-    showSearchBox: false,
+    searchBox: false,
 };
 ```
 
@@ -87,20 +87,21 @@ export function reducer (state = initialState, action) {
 }
 ```
 
-Now create your auxiliary functions ( showSearchBox and hideSearchBox ):
+Now create your auxiliary functions ( showSearchBox and hideSearchBox ).
+Here we recreate our state changing only that part that we need (searchBox)
 
 ```
 function showSearchBox(state, action): IAppState {
 
     return Object.assign({}, state, {
-        showSearchBox: action.showSearchBox
+        searchBox: action.searchBox
     })
 }
 
 function hideSearchBox(state, action): IAppState {
 
     return Object.assign({}, state, {
-        hideSearchBox: action.hideSearchBox
+        searchBox: action.searchBox
     })
 }
 ```
@@ -108,13 +109,15 @@ function hideSearchBox(state, action): IAppState {
 #### Component
 Now you need to trigger that actions [from your component(s)] by calling the functions we created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
 
-Lets say we want to call showSearchBox on click. So we add a function to that HTML element
+Lets say we want to call showSearchBox method ( from layoutActions.ts file ) on click. 
+
+From the html file we bind our click to our method openSearchBox on the ts file.
 
 ```
 (click)="openSearchBox()"
 ```
 
-and from the ts file...
+and from the ts file we call the showSearchBox method from our layoutActions file
 
 ```
 openSearchBox() {
@@ -122,7 +125,7 @@ openSearchBox() {
 }
 ```
   
-This is enough to change our state, from showSearchBox: false to true
+This is enough to change our state, from showSearchBox: false to true. You can double check from redux extension or devTool.
 
 
 
