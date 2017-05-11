@@ -16,7 +16,7 @@ Lets say we want to show/hide a search box (searchBox) when a button is clicked.
 
 To interact with searchBox we need **actions**
 
-check that on your actions.ts file you imported your store (ngRedux), state (IAppState) and Injectable.
+note: check that on your actions.ts file you imported your store (ngRedux), state (IAppState) and Injectable.
 
 create and export your constants (you can see the message SHOW_SEARBOX with redux DevTools or in the console using redux extention):
 
@@ -56,8 +56,46 @@ export interface IAppState {
 }
 ```
 
+#### Reducers
+here we use our current **state** and our **actions** to create our **new state**
 
+import your variables ( SHOW_SEARCHBOX, HIDE_SEARCHBOX ) from layout.actions.ts to your file (reducer.ts).
 
+On your reducer function you add your cases:
+
+```
+export function reducer (state = initialState, action) {
+    switch (action.type) {
+        ...
+
+        case SHOW_SEARCHBOX: 
+            return showSearchBox(state, action);
+        case SHOW_SEARCHBOX: 
+            return hideSearchBox(state, action);
+
+        default:
+            return state;
+    }
+}
+```
+
+Now create your auxiliary functions ( showSearchBox and hideSearchBox ):
+
+```
+function showSearchBox(state, action): IAppState {
+
+    return Object.assign({}, state, {
+        showSearchBox: action.showSearchBox
+    })
+}
+
+function hideSearchBox(state, action): IAppState {
+
+    return Object.assign({}, state, {
+        hideSearchBox: action.hideSearchBox
+    })
+}
+```
 
 
 
