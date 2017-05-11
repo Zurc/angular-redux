@@ -1,0 +1,2376 @@
+var booklist = {
+  "data": [
+    {
+      "productKey": "SBS.REG1.2016",
+      "title": "2016-2017 Salary Budget Survey",
+      "longName": "2016-2017 Salary Budget Survey, 1 year",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [],
+      "isbn": null,
+      "publisher": null,
+      "notes": [],
+      "description": "2016-2017 Report Now Available   Stay Competitive. Attract and Retain Talent in Ever-Changing Market Conditions The \"WorldatWork 2016-2017 Salary Budget Survey\" is an essential instrument in your compensation planning. The 43rd annual edition, this is the longest-running survey of its kind.",
+      "pages": null,
+      "cover": null,
+      "onBackOrderUntil": "August 2016",
+      "categories": [
+        "Compensation",
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$375.00",
+      "nonMemberPrice": "$375.00",
+      "detailPageLink": "testingforalan",
+      "ebookVersion": {
+        "isbn": null,
+        "productKey": null,
+        "memberPrice": null,
+        "nonMemberPrice": null
+      }
+    },
+    {
+      "productKey": "9781579631925",
+      "title": "Administering Stock Option PlansHow-to Series for the HR Professional",
+      "longName": "Administering Stock Option Plans: How-To Guide for HR Professionals",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Brent Longnecker"
+        },
+        {
+          "name": "Pamela Van Gordon"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/db6c2480-894e-4f4a-87d4-95956bcc19f8/fileAsset"
+        }
+      ],
+      "isbn": "9781579631925",
+      "publisher": "WorldatWork Press",
+      "notes": [
+        "A How-to Guide for the HR Professional"
+      ],
+      "description": "The entire discussion of stock options has changed in just the past few years. Now that stock options are being required to be charged to earnings, companies are being more thoughtful than ever in their use and administration. In addition, grantees have become more sophisticated -- they are more educated than ever before, and they want to understand the details of the programs and processes involved. At the same time, government regulators are increasingly checking into how options are being used, thus making accurate administration more important than ever.",
+      "pages": "67",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "How-to Series",
+        "Executive compensation",
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632502",
+        "productKey": "9781579632502",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579632120",
+      "title": "Attraction & RetentionA Collection of Articles from WorldatWork",
+      "longName": "Attraction & Retention: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/fb4a1cf5-5e1b-4a2e-a216-a6f6e21d3b6d/fileAsset"
+        }
+      ],
+      "isbn": "9781579632120",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "While employers may be experiencing fewer attraction and retention troubles due to the most recent economic crisis, there is a strong business case for integrating rewards and talent management programs. Organizations that apply an integrated approach in this area and across all stages of the employment life cycle have an advantage in attracting, engaging and retaining the talent they need to succeed in their markets &emdash; and financially outperform their peers.",
+      "pages": "268",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$41.95",
+      "nonMemberPrice": "$44.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632205",
+        "productKey": "9781579632205",
+        "memberPrice": "$33.95",
+        "nonMemberPrice": "$36.95"
+      }
+    },
+    {
+      "productKey": "9781579633271",
+      "title": "Automating Sales CompensationHow-to Series for the HR Professional",
+      "longName": "Automating Sales Compensation: How-To Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/193cbe8f-66f5-467d-aad4-d51b6359a861/fileAsset"
+        }
+      ],
+      "isbn": "9781579633271",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "\"Automating Sales Compensation,\" part of the How-To for HR Professionals line of books, is useful for anyone responsible for the success of a sales compensation program. And, because most companies don't have just one person who has overall responsibility, this book is designed for everyone who participates in the process.",
+      "pages": "66",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "How-to Series",
+        "Sales compensation",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633288",
+        "productKey": "9781579633288",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579631888",
+      "title": "Battling to Be the BestWhy Companies Compete for  Best-Place-to-Work Lists",
+      "longName": "Battling to Be the Best: Why Companies Compete for Best-Place-to-Work Lists",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Richard Federico"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/97021f88-44ff-4696-b9e0-90dd3cdca71a/fileAsset"
+        }
+      ],
+      "isbn": "9781579631888",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book takes readers through the ins-and-outs of best-place-to work lists. Dozens of case study examples provide insights into what winning - and hopeful - companies are doing to be recognized as the best of the best, and what every organization should look at before embarking on this mammoth adventure.",
+      "pages": "87",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Work-Life",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632533",
+        "productKey": "9781579632533",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "157963110X",
+      "title": "The Best of Communicating Total Rewards A Collection of Articles from WorldatWork",
+      "longName": "Best of Communicating Total Rewards, The: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/0f9331f4-d206-4743-b028-6cac307b0861/fileAsset"
+        }
+      ],
+      "isbn": "157963110X",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This resource publication features the best-of article reprints from WorldatWork's respected publications -- workspan magazine and WorldatWork Journal.",
+      "pages": "82",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Benefits",
+        "Compensation",
+        "Work-Life",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$19.95",
+      "nonMemberPrice": "$24.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632304",
+        "productKey": "9781579632304",
+        "memberPrice": "$15.95",
+        "nonMemberPrice": "$17.95"
+      }
+    },
+    {
+      "productKey": "1579631215",
+      "title": "The Best of Performance ManagementA Collection of Articles from WorldatWork",
+      "longName": "Best of Performance Management, The: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/6d382999-325a-46d3-a5ea-0a2e73fd26a0/fileAsset"
+        }
+      ],
+      "isbn": "1579631215",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This resource publication features article reprints from WorldatWork's respected publications -- workspan magazine and WorldatWork Journal. It offers readers numerous resources on a variety of topics related to performance management, including discussion on system design, evaluation and rewards.",
+      "pages": "130",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Performance and recognition"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$19.95",
+      "nonMemberPrice": "$24.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632885",
+        "productKey": "9781579632885",
+        "memberPrice": "$15.95",
+        "nonMemberPrice": "$17.95"
+      }
+    },
+    {
+      "productKey": "1579630928",
+      "title": "The Best of Variable PayIncentives, Recognition and Rewards",
+      "longName": "Best of Variable Pay, The: Incentives, Recognition and Rewards",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/00ce66db-e9b2-4802-9c27-f7ad47b97980/fileAsset"
+        }
+      ],
+      "isbn": "1579630928",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This resource publication features article reprints from WorldatWork's respected publications -- workspan magazine and WorldatWork Journal -- from 1995 to 2000. It offers readers numerous resources on a variety of topics relating to variable pay.",
+      "pages": "194",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "Performance and recognition"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$19.95",
+      "nonMemberPrice": "$24.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632878",
+        "productKey": "9781579632878",
+        "memberPrice": "$15.95",
+        "nonMemberPrice": "$17.95"
+      }
+    },
+    {
+      "productKey": "9781579631970",
+      "title": "Building Pay StructuresHow-To Series for the HR Professional",
+      "longName": "Building Pay Structures:  How-To Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Dan Purushotham"
+        },
+        {
+          "name": "Stephanie Wilson"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/94c17abf-6ef6-48b5-985f-12332b85c665/fileAsset"
+        }
+      ],
+      "isbn": "9781579631970",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this latest edition of a WorldatWork classic How-To book, authors Dan Purushothan and Stephanie Wilson have updated their content to reflect the global implications and considerations when building pay structures.",
+      "pages": "48",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632472",
+        "productKey": "9781579632472",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579633738",
+      "title": "The Changing Work Environment: Building an Anywhere, Anytime Culture",
+      "longName": "Changing Work Environment, The: Building an Anywhere, Anytime Culture",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Naomi Leventhal"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/ecdb36cc-f60e-4690-9ec4-52301e2fc85f/fileAsset"
+        }
+      ],
+      "isbn": "978-1-57963-373-8",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this book, author Naomi Leventhal walks total rewards and human resources professionals through their strategic role in helping organizations re-think how the office is viewed and which workplace flexibility opportunities are provided to employees.  &nbsp;",
+      "pages": "164",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Work-Life"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$59.95",
+      "nonMemberPrice": "$64.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633745",
+        "productKey": "9781579633745",
+        "memberPrice": "$49.95",
+        "nonMemberPrice": "$53.95"
+      }
+    },
+    {
+      "productKey": "9781579633059",
+      "title": "Communicating Total Rewards Third EditionHow-to Series for the HR Professional",
+      "longName": "Communicating Total Rewards: How-To Series",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Susan Rogers"
+        },
+        {
+          "name": "Scot Marcotte"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/ff54df0f-b6ef-4ef3-817c-619f0ceb2ec3/fileAsset"
+        }
+      ],
+      "isbn": "9781579633059",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Organizations spend significant money each year on total rewards to attract, motivate and retain employees. Yet, when employees are unaware of the programs, employers fail to see the full return on their investment. This can be solved by communication.",
+      "pages": "66",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Work-Life",
+        "How-to Series",
+        "Benefits",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633066",
+        "productKey": "9781579633066",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633653",
+      "title": "Compensating Globally Mobile Employees: How-to Series for the HR Professional, 3rd edition",
+      "longName": "Compensating Globally Mobile Employees: How-to Series for the HR Professional, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Roger Herod"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/e26c34bd-9733-4712-8d72-d9222213c2db/fileAsset"
+        }
+      ],
+      "isbn": "9781579633653",
+      "publisher": "WorldatWork",
+      "notes": [],
+      "description": "This booklet will help employers answer some key questions such as whether to conduct or purchase a survey of corporate practices, hire a consultant, follow the competition, be creative in designing pay strategies, negotiate with each expatriate candidate or simply pay the second expatriate the way the first one was paid, and so on. Author Roger Herod delivers approaches to developing expatriate pay strategies for the evolving multinational corporation.",
+      "pages": "40",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Global Rewards",
+        "Compensation",
+        "How-To Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633660",
+        "productKey": "9781579633660",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579633639",
+      "title": "Compensating North American Expatriates: How-to Series for the HR Professional",
+      "longName": "Compensating North American Expats: How-to Series for the HR Professional, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Roger Herod"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/43776ebc-44d9-406c-9eb0-ea99f34561cf/fileAsset"
+        }
+      ],
+      "isbn": "9781579633639",
+      "publisher": "WorldatWork",
+      "notes": [],
+      "description": "North American organizations operating globally continue to try different compensation approaches for expatriates. An increasing number of organizations in fact use a variety of different approaches according to the nature of the assignment and type of assignee.",
+      "pages": "39",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Global Rewards",
+        "Compensation",
+        "How-To Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633646",
+        "productKey": "9781579633646",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "1579630383",
+      "title": "Compensation Basics for HR GeneralistsHow-to Series for the HR Professional",
+      "longName": "Compensation Basics for HR Generalists",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Elaine Walker"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/79e5a8c5-7ea9-4a11-a5e3-5251c064cf3f/fileAsset"
+        }
+      ],
+      "isbn": "1579630383",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This booklet identifies the specific components of typical compensation programs for the benefit of HR generalists, who are not likely to be familiar with the sometimes highly technical language of compensation. Topics include: compensation philosophy, base pay, job evaluation, marketing analysis, salary ranges, legal defensibility, incentive pay, pay for performance, salary surveys, and total compensation.",
+      "pages": "37",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632809",
+        "productKey": "9781579632809",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "1579631584",
+      "title": "Culture at WorkBuilding a Robust Work Environment to Help Drive Your Total Rewards Strategy",
+      "longName": "Culture at Work",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Michael Barton"
+        },
+        {
+          "name": "G Michael Barton"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/babe05dc-dee9-46dc-b244-5617bc3eb058/fileAsset"
+        }
+      ],
+      "isbn": "1579631584",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book serves as a template for assessing and managing an organizational culture. Of course, there is no one-size-fits-all approach to the subject. But the tools provided in the book make it easy to understand not only what defines culture and how it works, but also ways you can influence it and make it work to your company's advantage.",
+      "pages": null,
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$59.95",
+      "nonMemberPrice": "$64.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632342",
+        "productKey": "9781579632342",
+        "memberPrice": "$49.95",
+        "nonMemberPrice": "$53.95"
+      }
+    },
+    {
+      "productKey": "1579631576",
+      "title": "Designing & Conducting a Salary SurveyHow-to Series for the HR Professional",
+      "longName": "Designing & Conducting a Salary Survey",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "James Mc Mahon"
+        },
+        {
+          "name": "Janice Hand"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/d649133d-f1b5-4f30-9ad9-0ec44a256cba/fileAsset"
+        }
+      ],
+      "isbn": "1579631576",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Just as business objectives and strategies play an important role in shaping corporate-pay postures, so does acquiring timely and accurate compensation data. You need to be aware of the issues to consider and steps to take to effectively evaluate your organization's compensation competitiveness in the external market. One way to do that, when other data is unavailable, is to conduct a custom compensation survey. This book shows how such a survey might be conducted, analyzed and presented successfully.",
+      "pages": "54",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632700",
+        "productKey": "9781579632700",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633035",
+      "title": "Designing Employee Health Management ProgramsHow-to Series for the HR Professional",
+      "longName": "Designing Employee Health Management Programs: How-to Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Michael Carter"
+        },
+        {
+          "name": "John Hennessy"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/960dc58c-6c18-44e1-b96d-29cd982187ae/fileAsset"
+        }
+      ],
+      "isbn": "9781579633035",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Given the ongoing deterioration of America's health in the areas of obesity, hypertension, abnormal lipids/cholesterol and insulin resistance, promoting employee health management (EHM) is the best long-term solution to containing ever-rising medical costs. Healthy employees and their healthy families are likely to incur lower medical costs and be more productive. EHM incentives have shown to be effective in making a good cost-control strategy even better.",
+      "pages": "59",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Work-Life",
+        "How-to Series",
+        "Benefits",
+        "HR",
+        "Health care"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633042",
+        "productKey": "9781579633042",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579632397",
+      "title": "Designing Employee Recognition ProgramsHow-To Series for the HR Professional",
+      "longName": "Designing Employee Recognition Programs: How-to Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Marc Drizin"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/b00689bc-cc35-4711-9386-7d295b65d8f8/fileAsset"
+        }
+      ],
+      "isbn": "9781579632397",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this How-To for the HR Professional, author Marc Drizin makes the case for employee rewards and recognition, helps readers understand how to align a recognition program to the organizational mission, vision and values, and focuses on the design and administration of a well-conceived program.",
+      "pages": "50",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Performance and recognition",
+        "HR",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632403",
+        "productKey": "9781579632403",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633110",
+      "title": "Designing Management Incentive PlansHow-To Series for the HR ProfessionalThird Edition",
+      "longName": "Designing Management Incentive Plans: How-To Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Bruce Overton"
+        },
+        {
+          "name": "Mary Steele"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/6fca9fe8-2c85-46b9-86f6-5ff7730d100f/fileAsset"
+        }
+      ],
+      "isbn": "9781579633110",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this update, authors Bruce Overton and Mary Steele bring these present-day issues to the fore and provide a framework for the audit or initial design of managerial incentive compensation plans. They discuss the selection of various plan types within an established total compensation strategy, along with alternative solutions to issues related to the design of incentive compensation plans.",
+      "pages": "46",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "HR",
+        "How-to Series",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633127",
+        "productKey": "9781579633127",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "1579630162",
+      "title": "Designing Sales Compensation PlansHow-to Series for the HR Professional",
+      "longName": "Designing Sales Compensation Plans",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Jerry Colletti"
+        },
+        {
+          "name": "David Cichelli"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/dd72ac2c-35aa-4923-980c-08e938d785c1/fileAsset"
+        }
+      ],
+      "isbn": "1579630162",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This booklet explains the following aspects of designing an effective sales compensation plan: linking the sales compensation plan to business strategy; establishing the design team; assessing the current plan; designing the new plan; implementing the new plan; and evaluating results.",
+      "pages": "48",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "Sales compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632939",
+        "productKey": "9781579632939",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579631857",
+      "title": "Developing a Strategic Benefits ProgramHow-to Series for the HR Professional",
+      "longName": "Developing a Strategic Benefits Program: How-to Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Julianne Adamik"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/778f9b32-d649-47d2-b68b-8bc9735ecf08/fileAsset"
+        }
+      ],
+      "isbn": "9781579631857",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book outlines how to develop a benefits strategy that aligns with overall corporate goals, objectives and structure. Plus this book teaches how to use this strategy as a roadmap for determining which benefits programs will best suit their organization.",
+      "pages": "61",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$27.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632557",
+        "productKey": "9781579632557",
+        "memberPrice": "$22.95",
+        "nonMemberPrice": "$25.95"
+      }
+    },
+    {
+      "productKey": "9781579631871",
+      "title": "Developing International Talent Management StrategiesHow-to Series for the HR Professional",
+      "longName": "Developing International Talent Management Strategies: How-To Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Andy Craggs"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/bf02b81e-5dab-4974-b1c5-b744c06a6bf2/fileAsset"
+        }
+      ],
+      "isbn": "9781579631871",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "As businesses continue expanding internationally, and as geographic and social boundaries blur, the global economy continually provides both challenges and opportunities for employers and employees both at home and abroad. Countries and governments operate autonomously, and differences persist in legal and social frameworks, working practices, corporate governance and management practices. Labor laws, tax regimes, social security structures, along with compensation and benefits structures all remain unique to each country.",
+      "pages": "58",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "How-to Series",
+        "HR",
+        "Performance and recognition"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632274",
+        "productKey": "9781579632274",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633677",
+      "title": "Developing Statistical Job-Evaluation ModelsHow-to Series for the HR Professional &ndash; third edition",
+      "longName": "Developing Statistical Job-Evaluation Models: How-to Series for the HR Professional, third edition.",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/5c03defd-76f1-4aed-a5be-a3f85af60aa0/fileAsset"
+        }
+      ],
+      "isbn": "9781579633677",
+      "publisher": "WorldatWork Press",
+      "notes": [
+        "A How-to Guide for the HR Professional"
+      ],
+      "description": "This booklet outlines steps for using statistically derived job-evaluation models, which can be used to construct a job-worth hierarchy that is cost effective and easy to administer.",
+      "pages": "37",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633684",
+        "productKey": "9781579633684",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579633493",
+      "title": "Documenting Job ContentHow-to Series for the HR Professional - Third Edition",
+      "longName": "Documenting Job Content: How-to Series for the HR Professional, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Thomas Hackett"
+        },
+        {
+          "name": "Valerie Williams"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/02819128-3b60-4c2f-a05c-925b5204fdf8/fileAsset"
+        }
+      ],
+      "isbn": "978-157963-349-3",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Good job documentation is not simply a preventive measure. It also greatly assists in an organization's efforts to achieve efficiency and quality, and it facilitates the creation of an equitable job-worth hierarchy. This book describes 12 steps of conducting job and work analysis while incorporating workflow analysis techniques. Using the book's helpful examples, questionnaires and great tips on how to write a job description, you can translate your organization's strategic plan into specific roles and responsibilities.",
+      "pages": null,
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633509",
+        "productKey": "9781579633509",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633240",
+      "title": "Employee Benefits Basics \t\t          How-To Series for the HR Professional, Fourth Edition ",
+      "longName": "Employee Benefits Basics",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/3d2babfd-ef6d-4add-8c48-380204338c7a/fileAsset"
+        }
+      ],
+      "isbn": "9781579633240",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "The world of employee benefits is dramatically different today than it was just five years ago -- let alone 15 or 20 years ago. What is not new is the fact that employees need benefits, and companies need employees.",
+      "pages": "54",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "Retirement",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633257",
+        "productKey": "9781579633257",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633516",
+      "title": "Equity Compensation:Motivations and Implications",
+      "longName": "Equity Compensation: Motivations and Implications",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Steven Balsam"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/a212f2aa-1033-4f55-8192-6dfb5c9ee5b7/fileAsset"
+        }
+      ],
+      "isbn": "978-1-57963-351-6",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Learn how to recognize when equity compensation is right for a company, and how the amount and form of equity compensation will differ across companies and their circumstances.",
+      "pages": "186",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Executive compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$59.95",
+      "nonMemberPrice": "$64.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633523",
+        "productKey": "9781579633523",
+        "memberPrice": "$49.95",
+        "nonMemberPrice": "$53.95"
+      }
+    },
+    {
+      "productKey": "9781579631987",
+      "title": "ERISA BasicsHow-to Series for the HR ProfessionalThird  Edition",
+      "longName": "ERISA Basics: How-to Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Alden Bianchi"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/26fa3c8f-0394-41e6-9afe-87912d1eadd1/fileAsset"
+        }
+      ],
+      "isbn": "9781579631987",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "While employee benefits are an indispensable element of an employer's total rewards package, employers face myriad complex administrative tasks upon establishing an employee pension or welfare benefit plan. In general terms, this book is designed to familiarize employers with the responsibilities and liabilities of plan fiduciaries under the Employee Retirement Income Security Act of 1974 (ERISA).",
+      "pages": "70",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "How-to Series",
+        "Retirement"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632489",
+        "productKey": "9781579632489",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579631697",
+      "title": "Excellence at WorkThe Six Keys to Inspire Passion in the Workplace",
+      "longName": "Excellence at Work:The Six Keys to Inspire Passion in the Workplace",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Sandy Asch"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/6b064031-b573-45c2-a727-4eccb1e8d7c1/fileAsset"
+        }
+      ],
+      "isbn": "9781579631697",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book presents six simple, yet powerful principles for creating a robust work environment in which employees communicate impeccably, proactively solve problems, execute on priorities, bring out the best in each other, reignite their passion and have fun.",
+      "pages": "225",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$64.95",
+      "nonMemberPrice": "$69.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632380",
+        "productKey": "9781579632380",
+        "memberPrice": "$53.95",
+        "nonMemberPrice": "$57.95"
+      }
+    },
+    {
+      "productKey": "9781579633158",
+      "title": "Executive Compensation Practices in the UKA Guide to Governance, Taxation & Accounting",
+      "longName": "Executive Compensation Practices in the UK",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Steven Balsam"
+        },
+        {
+          "name": "Bo Qin"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/de205eee-c7da-4938-b9f2-9a07f9682894/fileAsset"
+        }
+      ],
+      "isbn": "9781579633158",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this book, the authors review compensation practices in the United Kingdom as well as three areas that have a large impact on those practices: governance, taxation and accounting.",
+      "pages": "150",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Executive compensation",
+        "Global Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633165",
+        "productKey": "9781579633165",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "9781579633172",
+      "title": "Executive Compensation A Collection of Articles from WorldatWork",
+      "longName": "Executive Compensation: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/06aa37c2-af94-46e2-9bfc-8f9f8554a955/fileAsset"
+        }
+      ],
+      "isbn": "9781579633172",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "All businesses, public and private alike, feel pressure Â¿ whether from the media, regulatory agencies, shareholders or those concerned about internal pay equity Â¿ to ensure that executive compensation programs are responsible and defensible. Unfortunately, many companies miss the opportunity to scrutinize executive pay and shore up its connection to business strategy.",
+      "pages": "288",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Executive compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$41.95",
+      "nonMemberPrice": "$44.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633189",
+        "productKey": "9781579633189",
+        "memberPrice": "$33.95",
+        "nonMemberPrice": "$36.95"
+      }
+    },
+    {
+      "productKey": "9781579633554",
+      "title": "Executive Compensation: A Collection of ArticlesVolume 2",
+      "longName": "Executive Compensation: A Collection of Articles, Volume 2",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/9f8faf6a-85f7-4b22-acbd-87dc469447aa/fileAsset"
+        }
+      ],
+      "isbn": "9781579633554",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "With 26 new articles, executive compensation thought leaders share their insights and advice on the best ways to thoughtfully design and implement executive pay programs that focus priorities and reflect the company's unique business strategy.",
+      "pages": "292",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Executive Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$41.95",
+      "nonMemberPrice": "$44.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633561",
+        "productKey": "9781579633561",
+        "memberPrice": "$33.95",
+        "nonMemberPrice": "$36.95"
+      }
+    },
+    {
+      "productKey": "9781579632113",
+      "title": "Financial Overview for the HR Business PartnerHow-To Series for the HR Professional",
+      "longName": "Financial Overview for the HR Business Partner: How-To Series for the HR",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Carol Kardas"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/2a77bc4b-504f-45f9-999c-ee12aa1a10bb/fileAsset"
+        }
+      ],
+      "isbn": "9781579632113",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Companies today are under constant pressure to cut costs and gain competitive advantage by using best-practice models to ensure survival. Human resources must prove that the activities it performs are both in line with business objectives and are financially sound. When asked to defend a current total rewards program or redesign an organization's total rewards system, it is important to present and justify these recommendations in definable business terms. HR professionals can be more effective in their positions and more successful in helping their organizations continue to grow profitable by understanding how each senior manager's organization makes money and what is needed to sustain business both in good and bad economic climates.",
+      "pages": "48",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "HR",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632441",
+        "productKey": "9781579632441",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579633332",
+      "title": "Global RewardsA Collection of Articles from WorldatWork, 2nd Edition",
+      "longName": "Global Rewards: A Collection of Articles from WorldatWork, 2nd Edition",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/f507bec9-b47c-4ca8-81d3-06b4f7ada65a/fileAsset"
+        }
+      ],
+      "isbn": "9781579633332",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this collection of articles from WorldatWork, thought leaders address topics ranging from rewarding expatriates to the role of global equity; from deciding whether to implement single, broad global policies or to \"go local,\" with local policies at the local employer in the local language; from HR in emerging countries to the decision whether to outsource practices. Each topic addressed lends insights into the global economy and changing demographic landscape, as well as how to design rewards systems that align with organizational business strategies and visions.",
+      "pages": "338",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Global Rewards",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633349",
+        "productKey": "9781579633349",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "9781579633455",
+      "title": "GoalsharingHow-to Series for the HR Professional3rd edition",
+      "longName": "Goalsharing: How-to Series for the HR Professional, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Harold Altmansberger"
+        },
+        {
+          "name": "Marc Wallace"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/1ea04751-5f24-485f-8a46-b431ac05f027/fileAsset"
+        }
+      ],
+      "isbn": "9781579633455",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book shows how to define, design, implement and evaluate an effective goalsharing program. This third edition features additional fields in which goalsharing may be useful such as medical, education and government.  New discussions are included on how goalsharing enables teamwork and collaboration for long-term business prominence and how it can be a rewards plan that is effective worldwide.",
+      "pages": "36",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "How-to Series",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633462",
+        "productKey": "9781579633462",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579631802",
+      "title": "Guide to Qualified Retirement PlansHow-to Series for the HR Professional",
+      "longName": "Guide to Qualified Retirement Plans:How-to Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Company Contact"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/85bfc4fc-227b-4249-b106-6ebeb682b62f/fileAsset"
+        }
+      ],
+      "isbn": "9781579631802",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book provides a basic understanding of the different types of retirement programs, along with the advantages and disadvantages of each, so that the practitioner can evaluate which types might be appropriate for meeting the needs of their workforce while still meeting employer business objectives.",
+      "pages": "56",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "Retirement",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$27.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632595",
+        "productKey": "9781579632595",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633356",
+      "title": "Handbook for Conducting Compensation & Benefits Surveys",
+      "longName": "Handbook for Conducting Compensation and Benefits Surveys",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Kenneth Cardinal"
+        },
+        {
+          "name": "Beth Florin"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/43e2afa5-d011-432a-a60b-ba8a8658448c/fileAsset"
+        }
+      ],
+      "isbn": "9781579633356",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Reasons why an organization may want to run a compensation or benefits survey runs the gamut from figuring out higher-than-normal turnover or learning if salespeople are motivated by their current compensation plan.",
+      "pages": "110",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "Compensation",
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633363",
+        "productKey": "9781579633363",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633295",
+      "title": "Handbook for Reading and Preparing Proxy Statements, Fourth Edition",
+      "longName": "Handbook for Reading & Preparing Proxy Statements, 4th edition",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/1fe73ad7-e8e4-4c4d-b9c1-e09b5352c28a/fileAsset"
+        }
+      ],
+      "isbn": "9781579633295",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In 2006, the Securities and Exchange Commission significantly amended proxy disclosure rules to provide investors with a clearer and more complete picture of executive and director compensation than had existed under prior disclosure rules. \"Handbook for Reading and Preparing Proxy Statements, 4th edition,\" (formerly \"Reading &amp; Preparing Proxy Statements: A Guide to the SEC Disclosure Rules for Executive and Director Compensation\") covers compensation policies and practices as they relate to risk management; the SEC's interpretive guidance on the executive and director compensation disclosure rules through the summer of 2011; the disclosure enhancements adopted by the SEC in 2009 and again in 2010.",
+      "pages": null,
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "Total Rewards",
+        "Executive compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633301",
+        "productKey": "9781579633301",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633264",
+      "title": "Handbook of Compensation & Benefits FormulasFeaturing Dianne Auld's Excel Tips",
+      "longName": "Handbook of Compensation & Benefits Formulas, featuring Dianne Auld's Excel Tips",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/98b03417-b921-468d-a6f2-9f5c9c8462f3/fileAsset"
+        }
+      ],
+      "isbn": "9781579633264",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In the past three decades, the world of compensation and benefits has experienced a revolution. And, while the role of today's total rewards professionals has become more strategic and business oriented, some fundamentals of the job will always hold true. One such fundamental is math.",
+      "pages": "400",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Sales compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$95.00",
+      "nonMemberPrice": "$125.00",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": null,
+        "productKey": null,
+        "memberPrice": null,
+        "nonMemberPrice": null
+      }
+    },
+    {
+      "productKey": "9781579633776",
+      "title": "Handbook of Compensation & Benefits FormulasFeaturing Dianne Auld's Excel Tips, 2nd Edition",
+      "longName": "Handbook of Compensation & Benefits Formulas, featuring Dianne Auld's Excel Tips, 2nd Edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Dianne Auld"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/6e2d8baa-c69d-4510-8231-0dd9fe973c55/fileAsset"
+        }
+      ],
+      "isbn": "978-157963-377-6",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "**NEW!**  Now featuring 120 tips, including new tips on ASAP Utilities, macros, advanced lookup and reference formulas and form controls, this edition covers Excel versions 2010 and 2013 (for versions 2003 &amp; 2007 please refer to the <A href=\"https://www.worldatwork.org/bookstore/html/product.jsp?id=9781579633264\">1st edition . Organized into two distinct sections, the book explains the manual process for calculations as well as provides cross references to applicable Excel functions to automate formulas. Readers will find a wealth of information in what has become a staple go-to resource for compensation and benefits professionals.",
+      "pages": "500",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Sales compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$95.00",
+      "nonMemberPrice": "$125.00",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": null,
+        "productKey": null,
+        "memberPrice": null,
+        "nonMemberPrice": null
+      }
+    },
+    {
+      "productKey": "1579631428",
+      "title": "Job EvaluationMethods to the Process",
+      "longName": "Job Evaluation: Methods to the Process",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/2a7e8adb-baf7-426a-bcaf-69901db6853e/fileAsset"
+        }
+      ],
+      "isbn": "1579631428",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book documents the importance of procedure in determining a job's worth and ensuring that information pertaining to the job is valid and accurate. The book contains chapters on regulatory issues, as well as communication, and an appendix that contains sample worksheets for point-factor job evaluation.",
+      "pages": "164",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$59.95",
+      "nonMemberPrice": "$64.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632823",
+        "productKey": "9781579632823",
+        "memberPrice": "$49.95",
+        "nonMemberPrice": "$53.95"
+      }
+    },
+    {
+      "productKey": "1579630154",
+      "title": "Linking Pay to PerformanceHow-to Series for the HR Professional",
+      "longName": "Linking Pay to Performance: An Approach to Designing a Merit Pay Plan",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Robert Heneman"
+        },
+        {
+          "name": "Steven Seltz"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/533716d4-885f-4e5e-b1d8-c85cebb6d3c1/fileAsset"
+        }
+      ],
+      "isbn": "1579630154",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This booklet covers the following aspects of merit pay: determining what to reward; documenting performance standards; establishing a merit budget; setting merit pay policy; managing a merit pay plan; evaluating a merit pay plan.",
+      "pages": "40",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "Performance and recognition",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632977",
+        "productKey": "9781579632977",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579632151",
+      "title": "Making the Case for Consumer-Driven Health PlansHow-to Series for the HR Professional",
+      "longName": "Making the Case for Consumer-Driven Health Plans: How-To Series for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Mary Helen McSweeney"
+        },
+        {
+          "name": "Dennis Nirtaut"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/ec3cacf1-0b84-4ccd-9ecf-2cbafbda95e8/fileAsset"
+        }
+      ],
+      "isbn": "9781579632151",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "The introduction of consumer-driven health plan (CDHP) options into employer-sponsored benefits plans has become more attractive across organizations. Many companies are finding this option to be a viable choice as part of the total rewards package due to increasing difficulty in offering competitive health plans to employees at affordable premiums while also maintaining good health-care coverage.",
+      "pages": "54",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Benefits",
+        "Health care",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632427",
+        "productKey": "9781579632427",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633578",
+      "title": "Managing Employee Health-Care and Prescription Benefits",
+      "longName": "Managing Employee Health-Care and Prescription Benefit Costs: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/500071a7-2c0e-4dc4-a88a-03b7d0a192da/fileAsset"
+        }
+      ],
+      "isbn": "978-157963-357-8",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Health-care and prescription-benefit cost containment continues to be a hot topic among benefits professionals. More than ever, financial conditions require organizations to look for ways to economize. Shifting costs to employees can negatively affect employee attitudes and loyalty; in the current economy, employees are increasingly sensitive to reductions in benefits and increases in paycheck deductions.",
+      "pages": "374",
+      "cover": "Soft",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Benefits",
+        "Health care"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633585",
+        "productKey": "9781579633585",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "1579631134",
+      "title": "Market PricingMethods to the Madness",
+      "longName": "Market Pricing: Methods to the Madness",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/ec1cde81-aea2-41fc-99b1-f63cbf767e9d/fileAsset"
+        }
+      ],
+      "isbn": "1579631134",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Learn how job analysis, evaluation, benchmarks, data collection, simple formulas, market index, weighting and more can make sense amid all the clutter. Bring order and clarity to market blips, adjustments, turnover, compliance and communication. Complete with case studies and examples, this book is on its way to becoming the compensation professional's next best friend!",
+      "pages": "151",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$59.95",
+      "nonMemberPrice": "$64.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632984",
+        "productKey": "9781579632984",
+        "memberPrice": "$49.95",
+        "nonMemberPrice": "$53.95"
+      }
+    },
+    {
+      "productKey": "1579630057",
+      "title": "Mastering Market DataHow-to Series for the HR Professional",
+      "longName": "Mastering Market Data",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Linda Ison"
+        },
+        {
+          "name": "Jane Loe"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/c9649ae7-7a2e-475a-9462-bb83fcec8433/fileAsset"
+        }
+      ],
+      "isbn": "1579630057",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Using too much \"artistic license\" with market-pricing data analyses can leave the results open to challenge. Discover a practical way to compile data and help achieve external competitiveness for your organization with the six steps described in this booklet.",
+      "pages": "24",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$28.95",
+      "nonMemberPrice": "$31.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632779",
+        "productKey": "9781579632779",
+        "memberPrice": "$23.95",
+        "nonMemberPrice": "$26.95"
+      }
+    },
+    {
+      "productKey": "9781579633592",
+      "title": "Mergers & Acquisitions How-to Series for the HR Professional",
+      "longName": "Mergers & Acquisitions How-to Series for the HR Professional, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Jerry Edge"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/55620053-4c4f-4a6b-a03b-176e4462ed0a/fileAsset"
+        }
+      ],
+      "isbn": "9781579633592",
+      "publisher": "WorldatWork",
+      "notes": [],
+      "description": "The pace of merger-and-acquisition activity continues accelerating in today's global environment, with common causes of failure coming from unclear leadership, culture clashes and poor integration. To seamlessly conduct merger and/or acquisition transitions, total rewards professionals must be familiar with their role, particularly the due diligence process.",
+      "pages": "99",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "Total Rewards",
+        "Executive Compensation",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633608",
+        "productKey": "9781579633608",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579632106",
+      "title": "Performance ManagementA Collection of Articles from WorldatWork",
+      "longName": "Performance Management: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/3d1e920e-a1d3-4d8e-8dac-dac4369a85ad/fileAsset"
+        }
+      ],
+      "isbn": "9781579632106",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "While employers may be experiencing fewer attraction and retention troubles due to the most recent economic crisis, there is a strong business case for integrating rewards and talent management programs. Organizations that apply an integrated approach in this area and across all stages of the employment life cycle have an advantage in attracting, engaging and retaining the talent they need to succeed in their markets &mdash; and financially outperform their peers.",
+      "pages": "227",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Performance and recognition",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$36.95",
+      "nonMemberPrice": "$39.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632199",
+        "productKey": "9781579632199",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$32.95"
+      }
+    },
+    {
+      "productKey": "9781579632021",
+      "title": "Planning Wage and Salary Programs",
+      "longName": "Planning Wage and Salary Programs",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Howard Risher"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/086b9852-193f-482e-b90f-24a297522f8d/fileAsset"
+        }
+      ],
+      "isbn": "9781579632021",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In the decade after World War II, jobs were defined by detailed activities; workers were expected to follow orders; supervisors had a limited span of control; work was closely supervised. Baby Boomers hadn't entered the employment ranks; women were limited to \"women's work\"; and the Civil Rights Act was a few years away. But in the past 20 years, knowledge workers have replaced manual workers, self-managed teams have replaced close supervision and focus has shifted to market values rather than internal job values. In this book, author Howard Risher, Ph.D., consolidates the body of knowledge needed to rethink a salary system in the 21st century, looking narrowly at the planning and modifying of salary programs for the benefit of HR professionals with little or no prior experience in redesigning salary programs.",
+      "pages": "120",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632458",
+        "productKey": "9781579632458",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "9781579631956",
+      "title": "Providing Financial Education and AdviceHow-to Series for the HR Professional",
+      "longName": "Providing Financial Education and Advice - How-to Series for HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Greg Limoges"
+        },
+        {
+          "name": "Wayne Bogosian"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/825dbfb8-a7c5-4490-9ab7-ba4a1ec8c52d/fileAsset"
+        }
+      ],
+      "isbn": "9781579631956",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book explores the differences between financial and investment education and advice, helping readers to understand the critical points employees need to know while being conscious of fiduciary liability issues. Along with a discussion of statutory and regulatory considerations, readers will learn that making employees better educated financial consumers is good business.",
+      "pages": "60",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "HR",
+        "How-to Series"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$31.95",
+      "nonMemberPrice": "$34.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632519",
+        "productKey": "9781579632519",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579632052",
+      "title": "Retirement BenefitsA Collection of Articles from WorldatWork",
+      "longName": "Retirement Benefits: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/669eb598-a33b-4e8f-a67c-a888955f79a9/fileAsset"
+        }
+      ],
+      "isbn": "9781579632052",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Recent tumultuous events in the U.S. Economy have wreaked havoc on capital markets and investment values, leaving many financial futures vulnerable. This book, assembled by WorldatWork, helps rewards professionals get a big-picture view of retirement. This compilation of more than 15 articles from top authors in the field of benefits aids readers in gaining a better understanding of today's complex retirement-related issues, and provides ideas on how to help employees get the most out of company-sponsored plans.",
+      "pages": "178",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Benefits",
+        "Total Rewards",
+        "Retirement"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$36.95",
+      "nonMemberPrice": "$39.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632182",
+        "productKey": "9781579632182",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$32.95"
+      }
+    },
+    {
+      "productKey": "1579631509",
+      "title": "Salary Surveys and AntitrustAn Overview for the HR Professional",
+      "longName": "Salary Surveys and Antitrust: An Overview for the HR Professional",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "John Davis"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/29a21dab-bbe5-4312-888d-017f33f8ea8e/fileAsset"
+        }
+      ],
+      "isbn": "1579631509",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book provides vital information that will enable readers and their companies to make better and more informed decisions with regard to participation in and use of salary surveys. The content is wide ranging with a wealth of references, and includes recent case history of salary surveys and antitrust. It also covers specific guidelines promulgated by the Department of Justice and the Federal Trade Commission regarding surveys in the health care industry, potential adverse statistical implications of compliance with such guidelines, practices of companies and consulting firms regarding salary surveys, differing views of attorneys, and specific steps on how organizations should approach making a decision regarding whether to and to what degree they work within the guidelines. While this book focuses on salary surveys, the same principles and perspectives apply to the exchange of any human resources function, whether salaries, benefits, policies or practices.",
+      "pages": "130",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$17.50",
+      "nonMemberPrice": "$22.50",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633028",
+        "productKey": "9781579633028",
+        "memberPrice": "$25.95",
+        "nonMemberPrice": "$28.95"
+      }
+    },
+    {
+      "productKey": "9781579633615",
+      "title": "Sales Compensation Essentials: A Field Guide for the HR Professional",
+      "longName": "Sales Compensation Essentials: A Field Guide for the HR Professional, 2nd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Jerry Colletti"
+        },
+        {
+          "name": "Mary Fiss"
+        },
+        {
+          "name": "Ted Briggs"
+        },
+        {
+          "name": "S Sands"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/933e1ca9-5e74-4f15-8942-fc2a53a47541/fileAsset"
+        }
+      ],
+      "isbn": "9781579633615",
+      "publisher": "WorldatWork",
+      "notes": [],
+      "description": "New and updated information including plan communication, governance and administration guidance, enhances this classic guideâ€™s value as a reference  tool. The premise for this book, however, remains unchanged: Not all people want to be sales compensation-wizards. Rather, they need to acquire authoritative and practical information about sales compensation, so they can be confident with the matter at hand. That's where this field guide comes in handy.",
+      "pages": "204",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Sales Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$64.95",
+      "nonMemberPrice": "$69.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633622",
+        "productKey": "9781579633622",
+        "memberPrice": "$53.95",
+        "nonMemberPrice": "$57.95"
+      }
+    },
+    {
+      "productKey": "9781579632144",
+      "title": "Sales Compensation Made Simple",
+      "longName": "Sales Compensation Made Simple",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Joseph DiMisa"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/edfce944-d694-4481-9646-625c7d411839/fileAsset"
+        }
+      ],
+      "isbn": "9781579632144",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Today's sales organizations are multifaceted and require multiple sales jobs with different responsibilities coupled with intricate forms of measurement and compensation. Accordingly, complex systems are required to help manage these organizations, and many companies struggle with the basic tenets of how to motivate and reward a sales organization.",
+      "pages": "141",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Sales compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632410",
+        "productKey": "9781579632410",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "9781579631864",
+      "title": "Sales Compensation Math",
+      "longName": "Sales Compensation Math",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Jerry Colletti"
+        },
+        {
+          "name": "Mary Fiss"
+        },
+        {
+          "name": "J Mark Davis"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/0f1daa84-c43a-44a2-913c-5afdbc87a354/fileAsset"
+        }
+      ],
+      "isbn": "9781579631864",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "Sales Compensation experts, Jerry Colletti, Mary Fiss, and Mark Davis have combined forces to create a book that applies appropriate techniques and formulas related to each factor of sales compensation (determining pay levels, pay mix, incentive design and calculating payouts) that is consistent with both best practices and generally accepted principles.",
+      "pages": null,
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Sales compensation",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$45.95",
+      "nonMemberPrice": "$49.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632540",
+        "productKey": "9781579632540",
+        "memberPrice": "$37.95",
+        "nonMemberPrice": "$40.95"
+      }
+    },
+    {
+      "productKey": "9781579632083",
+      "title": "Sales CompensationA Collection of Articles from WorldatWork",
+      "longName": "Sales Compensation: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/755b249a-e373-4c06-b20c-05d619cf6fb1/fileAsset"
+        }
+      ],
+      "isbn": "9781579632083",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "The sales compensation plan is one of the more powerful tools that top executives use to direct, motivate and reward the salesforce for its contribution to business success. Knowing when and how to align sales teams and compensation programs are key issues -- not only for sales, but for the overall company. And, because it is simply not practical or appropriate to use a single (or even a few) sales incentive plans across multiple divisions, geographies and sales roles, taking a global focus is an imperative for today's sales compensation professionals.",
+      "pages": "206",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Compensation",
+        "Sales Compensation",
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$36.95",
+      "nonMemberPrice": "$39.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632168",
+        "productKey": "9781579632168",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$32.95"
+      }
+    },
+    {
+      "productKey": "9781579633479",
+      "title": "Survey Best PracticesA Collection of Articles from WorldatWork",
+      "longName": "Survey Best Practices: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/ecf552dd-9e1f-4e50-ac18-27dfe138ff3c/fileAsset"
+        }
+      ],
+      "isbn": "9781579633479",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "This book is for practitioners who are responsible for comparing and evaluating market data.  It will help entry-level professionals seeking to acquire survey knowledge as well as mid- and senior-level HR business partners whose jobs virtually depend on excelling in the ever-changing landscape of competitive market data. The articles in this collection are written by some of the profession's top experts.  They offer an overview of the essentials and an in-depth perspective of current and timeless survey practices and issues. This book is a valuable resource for professionals at any level.",
+      "pages": "148",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$36.95",
+      "nonMemberPrice": "$39.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633486",
+        "productKey": "9781579633486",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$32.95"
+      }
+    },
+    {
+      "productKey": "9781579633202",
+      "title": "The Power of Restricted Stock:The Definitive Guide to a Resurging Long-Term Incentive - third edition",
+      "longName": "The Power of Restricted Stock: The Definitive Guide to a Resurging Long-Term Incentive, third edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Brent Longnecker"
+        },
+        {
+          "name": "Chris Crawford"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/4d281132-2122-40e7-a626-fc7687d6542c/fileAsset"
+        }
+      ],
+      "isbn": "9781579633202",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "The Power of Restricted Stock: The Definitive Guide to a Resurging Long-Term Incentive, third edition",
+      "pages": "208",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Executive Compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$64.95",
+      "nonMemberPrice": "$69.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633219",
+        "productKey": "9781579633219",
+        "memberPrice": "$53.95",
+        "nonMemberPrice": "$57.95"
+      }
+    },
+    {
+      "productKey": "9780470085806",
+      "title": "The WorldatWork Handbook of Compensation, Benefits & Total Rewards A Comprehensive Guide for HR Professionals                   ",
+      "longName": "The WorldatWork Handbook of Compensation, Benefits & Total Rewards: A Comprehensive Guide for HR Professionals",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/6fa982c2-cebb-4b33-b133-366606ecfdf5/fileAsset"
+        }
+      ],
+      "isbn": "9780470085806",
+      "publisher": "John Wiley & Sons Inc",
+      "notes": [],
+      "description": "Perfect for the compensation and benefits specialist who seeks a ready resource for their many technical needs, or for the HR generalist with varied responsibilities, the WorldatWork Handbook of Compensation, Benefits, and Total Rewards is a comprehensive tool for recruiting, rewarding and retaining talent in the 21st century. With its special focus on structuring and implementing a total rewards program, this is a fully modern guide to compensation.",
+      "pages": "840",
+      "cover": "Hardcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Compensation",
+        "Benefits",
+        "HR"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$95.00",
+      "nonMemberPrice": "$105.00",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": null,
+        "productKey": null,
+        "memberPrice": null,
+        "nonMemberPrice": null
+      }
+    },
+    {
+      "productKey": "9781579632090",
+      "title": "Total Rewards CommunicationsA Collection of Articles from WorldatWork",
+      "longName": "Total Rewards Communications: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/f0965832-540d-42cd-8258-2f180647f796/fileAsset"
+        }
+      ],
+      "isbn": "9781579632090",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "The importance of effective communication between management and employees is not a new idea by any means. Yet, good communications strategies are often overlooked. Communication and education play a critical role in helping businesses maximize their total rewards package as a competitive advantage to attract and retain the best talent.",
+      "pages": "214",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$64.95",
+      "nonMemberPrice": "$69.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579632229",
+        "productKey": "9781579632229",
+        "memberPrice": "$53.95",
+        "nonMemberPrice": "$57.95"
+      }
+    },
+    {
+      "productKey": "9781579633783",
+      "title": "Understanding Executive Compensation & GovernanceA Practical Guide for Decision Makers, 3rd Edition",
+      "longName": "Understanding Executive Compensation & Governance: A Practical Guide, 3rd edition",
+      "contentPreviewLinks": [],
+      "authors": [
+        {
+          "name": "Irving Becker"
+        },
+        {
+          "name": "William Gerek"
+        }
+      ],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/5cf9a0dd-959f-4969-9c63-c30e463eb44f/fileAsset"
+        }
+      ],
+      "isbn": "9781-57963-378-3",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "**NEW!**  With new chapters on the CEO and board life cycles, executive pay in bankruptcy proceedings, retention awards, sign-on bonuses and compensating executives at portfolio companies of private equity firms, this book synthesizes current knowledge and best practices, then provides relevant discussion of trends and suggestions. Relevant to any type of company, whether publicly or privately held,  Understanding Executive Compensation &amp; Governance  is a must-read for any professional responsible for crafting or overseeing executive pay programs.",
+      "pages": "537",
+      "cover": "Hardcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Executive compensation"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$44.95",
+      "nonMemberPrice": "$50.00",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633790",
+        "productKey": "9781579633790",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$34.95"
+      }
+    },
+    {
+      "productKey": "9781579633431",
+      "title": "Well-Being: A Collection of Articles from WorldatWork",
+      "longName": "Well-Being: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/b47fecda-911d-47e5-84ca-98dc57c22219/fileAsset"
+        }
+      ],
+      "isbn": "9781579633431",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "For many years, organizations have used the term \"wellness\" to talk about the physical aspect of employee health. However, in the past few years the term \"well-being\" has come to the fore to represent a more holistic view, encompassing the concepts of financial well-being, spiritual well-being, and emotional and mental well-being -- in addition to physical well-being.",
+      "pages": "246",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Total Rewards",
+        "Work-Life"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$36.95",
+      "nonMemberPrice": "$39.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": "9781579633448",
+        "productKey": "9781579633448",
+        "memberPrice": "$29.95",
+        "nonMemberPrice": "$32.95"
+      }
+    },
+    {
+      "productKey": "9781579633196",
+      "title": "Work-LifeCollection of Articles from WorldatWork",
+      "longName": "Work-Life: A Collection of Articles from WorldatWork",
+      "contentPreviewLinks": [],
+      "authors": [],
+      "images": [
+        {
+          "type": "book cover photo",
+          "path": "/contentAsset/raw-data/1075b9ca-0d87-4a16-b61c-6c547a47e546/fileAsset"
+        }
+      ],
+      "isbn": "9781579633196",
+      "publisher": "WorldatWork Press",
+      "notes": [],
+      "description": "In this collection of articles from WorldatWork, thought leaders provide ideas and concepts about how to effectively implement work-life initiatives, including programs that address telework, flexible scheduling, business continuity, wellness, dependent care and time off. Case studies, research and interviews with professionals in the field discuss the pressing issues facing both employers and employees, proving that creating a flexible work environment can be one of the best ways to increase employee satisfaction beyond simply issuing a bigger paycheck.",
+      "pages": "270",
+      "cover": "Softcover",
+      "onBackOrderUntil": null,
+      "categories": [
+        "Work-Life",
+        "Total Rewards"
+      ],
+      "spotLightedIns": [],
+      "memberPrice": "$41.95",
+      "nonMemberPrice": "$41.95",
+      "detailPageLink": null,
+      "ebookVersion": {
+        "isbn": null,
+        "productKey": null,
+        "memberPrice": null,
+        "nonMemberPrice": null
+      }
+    }
+  ]
+}
