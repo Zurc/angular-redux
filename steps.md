@@ -17,6 +17,7 @@ Lets say we want to show/hide a search box (searchBox) when a button is clicked.
 To interact with searchBox we need **actions**
 
 > check that on your actions file (I name it layout.actions.ts) you imported your store (ngRedux), state (IAppState) and Injectable.
+
 ```
 import { NgRedux } from 'ng2-redux';
 import { IAppState } from '../store';
@@ -152,8 +153,14 @@ openSearchBox() {
     this.layoutActions.showSearchBox();
 }
 ```
-  
+
 This is enough to change our state, from showSearchBox: false to true. You can double check from redux extension or devTool.
+
+----
+
+Now let's say I want to close that search box from another component (navSearch).
+
+> Plus: we will add animations to show/hide the search box
 
 
 
