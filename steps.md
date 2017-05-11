@@ -18,7 +18,7 @@ To interact with searchBox we need **actions**
 
 note: check that on your actions.ts file you imported your store (ngRedux), state (IAppState) and Injectable.
 
-create and export your constants (you can see the message SHOW_SEARBOX with redux DevTools or in the console using redux extention):
+create and export your constants (If you are using redux DevTools on your browser or redux extension you will see the message SHOW_SEARCHBOX when that action is triggered):
 
 ```
 export const SHOW_SEARCHBOX = 'SHOW_SEARCHBOX'
@@ -60,6 +60,14 @@ export interface IAppState {
 here we use our current **state** and our **actions** to create our **new state**
 
 import your variables ( SHOW_SEARCHBOX, HIDE_SEARCHBOX ) from layout.actions.ts to your file (reducer.ts).
+update your initialState to include showSearchBox ( I want this to initialize hiden so I'll set it to false )
+
+```
+const initialState: IAppState = {
+    ...
+    showSearchBox: false,
+};
+```
 
 On your reducer function you add your cases:
 
@@ -96,6 +104,15 @@ function hideSearchBox(state, action): IAppState {
     })
 }
 ```
+
+#### Component
+Now you need to trigger that actions from your component(s).
+
+You will be calling the functions we created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
+
+
+
+
 
 
 
