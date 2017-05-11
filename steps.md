@@ -106,13 +106,23 @@ function hideSearchBox(state, action): IAppState {
 ```
 
 #### Component
-Now you need to trigger that actions from your component(s).
+Now you need to trigger that actions [from your component(s)] by calling the functions we created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
 
-You will be calling the functions we created in layout.actions.ts file [ showSearchBox() and hideSearchBox() ].
+Lets say we want to call showSearchBox on click. So we add a function to that HTML element
 
+```
+(click)="openSearchBox()"
+```
 
+and from the ts file...
 
-
+```
+openSearchBox() {
+    this.layoutActions.showSearchBox();
+}
+```
+  
+This is enough to change our state, from showSearchBox: false to true
 
 
 
