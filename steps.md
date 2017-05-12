@@ -1,4 +1,5 @@
 # angular-redux search box example
+
 > I'm working with [ng2-redux]
 
 #### Intro
@@ -162,9 +163,9 @@ This is enough to change our state, from showSearchBox: false to true. You can d
 Now let's say I want to close that search box from another component (navSearch).
 
 > Plus: we will add animations to show/hide the search box
-
-> If you want to learn more about animations check this amazing tutorial on [ng2-animations]
-
+> 
+> If you want to learn more about animations check [ng-docs] or [ng2-animations]
+> 
 > Be sure to import your store, state and actions to this component too and construct your component with them
 
 ```
@@ -187,5 +188,6 @@ constructor(
 
 
 [ng2-redux]: <https://www.npmjs.com/package/ng2-redux>
+[ng-docs]: <https://angular.io/docs/ts/latest/guide/animations.html>
 [ng2-animations]: <https://coursetro.com/posts/code/25/Understanding-Angular-2-Animations-Tutorial>
 
