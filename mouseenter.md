@@ -78,5 +78,32 @@ function mouseEnter (state, action): IAppState {
 }
 ```
 
+#### component
+
+on my entity-list.component.html...
+
+```
+...
+<li *ngFor="let entity of entityList.entities"
+    [class.selected]="entity.code === entityList.asset_parent"
+    (click)='onSelectEntity(entity)'
+    (mouseenter)="onEnter(entity)"
+    >
+...
+```
+
+on my entity-list.component.ts...
+
+```
+onEnter(entity) {
+    // console.log(entity.mouseover)
+    this.ngRedux.getState().entityTree.map((list,index) => {
+        const entityCode = list.entities.filter(x => x.code === entity.code)
+        // console.log(entityCode[0])
+        this.entityActions.mouseEnter(entityCode[0])
+    })
+}
+```
+
 
 
