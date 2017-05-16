@@ -55,6 +55,23 @@ export interface Entity {
 
 #### Reducer
 
+import the constant...
+
+```
+import { ...
+         ENTITY_MOUSE_ENTER
+        } from '../entities/entity.actions';
+```
+
+add to entity constant...
+
+```
+const entity: Entity = {
+    ...
+    mouseover : false,
+};
+```
+
 on my reducer function I've added another case
 
 ```
