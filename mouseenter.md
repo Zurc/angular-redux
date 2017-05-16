@@ -34,5 +34,19 @@ getEntities () {
 > I should do something like that when I build the entityTree (on each list)
 
 
+#### IAppState
+
+I didn't change the state interface, because that property is inside entity that already exists...
+
+I've added mouseover property on my entity.model.ts file
+
+```
+export interface Entity {
+    ...
+    mouseover?: boolean;
+}
+```
+
+
 
 
