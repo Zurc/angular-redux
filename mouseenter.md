@@ -47,6 +47,36 @@ export interface Entity {
 }
 ```
 
+#### Reducer
+
+on my reducer function I've added another case
+
+```
+case ENTITY_MOUSE_ENTER:
+    return mouseEnter(state, action);
+```
+
+and the auxiliary function
+
+```
+
+function mouseEnter (state, action): IAppState {
+    // entityTree.map((list,index) => {
+    //   const entityCode = list.entities.filter(x => x.code === entity.code)
+    //   console.log(entityCode[0])
+    const ente = state.entityTree.map((list,index)=> {
+        const entityHovered =  list.entities.filter(x=>x.code === action.entity.code)
+        // console.log(entityHovered[0])
+        return entityHovered
+    })
+    console.log(ente[0][0])
+    // returning the initial state at the moment
+    return Object.assign({}, state, {
+            entity: state.entity,
+            entityTree: state.entityTree
+        } )
+}
+```
 
 
 
