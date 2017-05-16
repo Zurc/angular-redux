@@ -6,6 +6,12 @@ On mouseEnter (hover on an entity List item) I want to show edit and delete butt
 
 To interact with searchBox we need **actions**
 
+export the constant...
+
+```
+export const ENTITY_MOUSE_ENTER = 'entities/ENTITY_MOUSE_ENTER';
+```
+
 I've passed entity as parameter because I want to change mouseover property to true only on that object
 
 ```
