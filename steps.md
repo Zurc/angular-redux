@@ -286,8 +286,8 @@ In our **navsearch.component.ts** file we need a function (to call the action to
 
 ```
 closeSearchBox() {
-        this.layoutActions.hideSearchBox();
-    }
+    this.layoutActions.hideSearchBox();
+}
 ```
 
 
