@@ -204,7 +204,7 @@ Trigger's name: slideInOut ( we've used this in our html file )
 
 ```
   trigger('slideInOut', [
-```  
+```
 
 On our 'out' state (when our element is out of the window) we will apply some style to our html tag element 'main-wrap'
 We want our element totally moved to the left of our window
@@ -222,15 +222,15 @@ On our 'in' state we want our element back to normal
     })),
       left: 0,
     })),
-```    
+```
 
 We apply different animation properties
 
-```    
+```
     transition('in => out', animate('0.3s 0.3s ease-in')),
     transition('out => in', animate('0.3s ease-out'))
   ]),
-```  
+```
 
 The second animation works with the same 'mechanism'
 
@@ -278,9 +278,17 @@ OK, great! but we are not finished... yet... :)
 
 In our **navsearch.component.html** file we need a close button tide to our 'out' state...
 
+```
+<div class="fa fa-times form-control-feedback" (click)="closeSearchBox()"></div>
+```
 
+In our **navsearch.component.ts** file we need a function (to call the action to that will change state to false)
 
-
+```
+closeSearchBox() {
+        this.layoutActions.hideSearchBox();
+    }
+```
 
 
 
