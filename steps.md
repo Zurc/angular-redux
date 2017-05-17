@@ -158,20 +158,33 @@ openSearchBox() {
 
 This is enough to change our state, from showSearchBox: false to true. You can double check from redux extension or devTool.
 
+> We changed out state but nothing happens on the UI yet. we want to attach the state with the component navsearch, which it will appear when searchBox property is true on our state
+
 ----
 
-Now let's say I want to close that search box from another component (navSearch).
+Now let's say I want to close that search box from inside navSearch component.
 
-> Plus: we will add animations to show/hide the search box
+> Plus: we will add animations to show/hide the search box from this component
 > 
 > If you want to learn more about animations check [ng-docs] or [ng2-animations]
 > 
 > Be sure to import your store, state and actions to this component too and construct your component with them
 
+
+In our **navsearch.component.html** file we will apply two animations...
+
+```
+<section class="main-wrap" [@slideInOut]="searchBoxState">
+    <div class="search" [@searchInput]="searchBoxState">
+```
+
+In our **navsearch.component.ts** file
+
 ```
 import { NgRedux, select } from 'ng2-redux';
 import { IAppState } from '../../store';
 import { LayoutActions } from "../../shared/layout.actions";
+import { Observable } from 'rxjs/Observable';
 
 ...
 
@@ -181,7 +194,56 @@ constructor(
   private layoutActions: LayoutActions) {}
   
 ```
+Let's see our animations (inside our @Component decorator ) in our navsearch.component.ts
 
+```
+animations: [
+  trigger('slideInOut', [         // trigger's name: slideInOut ( we will use this in our html file )
+  
+    // on our 'out' state (when our element is out of the window) 
+    // we will apply some style to our html tag element (.main-wrap)
+    state('out', style({          
+      left: '100%',               // we want our element totally moved to the left of our window
+    })),
+    state('in', style({           // on our 'in' state...
+      left: 0,                    // we want our element back to normal
+    })),
+    // we apply different animation properties
+    transition('in => out', animate('0.3s 0.3s ease-in')),
+    transition('out => in', animate('0.3s ease-out'))
+  ]),
+
+  trigger('searchInput', [
+    state('out', style({
+      opacity: 0,
+      width: 0
+    })),
+    state('in', style({
+      opacity: 1,
+      width: '100%'
+    })),
+    transition('in => out', animate('0.3s ease-in')),
+    transition('out => in', animate('0.3s 0.4s ease-out'))
+  ]),
+]
+```
+
+On navsearch.component.ts we need to check for searchBox state
+
+```
+@select('searchBox') searchBox$: Observable<any>;
+```
+
+we create a property searchBoxState which we'll use to connect our state with our animation
+
+```
+searchBoxState: string;
+
+// could work with any name like x or y... I've put state because it's easier to grasp the concept
+this.searchBox$.subscribe( state => {
+    this.searchBoxState = state ? 'in' : 'out';
+})
+```
 
 
 
