@@ -198,22 +198,45 @@ Let's see our animations (inside our @Component decorator ) in our navsearch.com
 
 ```
 animations: [
-  trigger('slideInOut', [         // trigger's name: slideInOut ( we will use this in our html file )
-  
-    // on our 'out' state (when our element is out of the window) 
-    // we will apply some style to our html tag element (.main-wrap)
-    state('out', style({          
-      left: '100%',               // we want our element totally moved to the left of our window
-    })),
-    state('in', style({           // on our 'in' state...
-      left: 0,                    // we want our element back to normal
-    })),
-    // we apply different animation properties
+```
+
+Trigger's name: slideInOut ( we've used this in our html file )
+
+```
+  trigger('slideInOut', [
+```  
+
+On our 'out' state (when our element is out of the window) we will apply some style to our html tag element 'main-wrap'
+We want our element totally moved to the left of our window
+
+```
+    state('out', style({          
+      left: '100%',
+    })),
+```
+
+On our 'in' state we want our element back to normal
+
+```
+    state('in', style({
+    })),
+      left: 0,
+    })),
+```    
+
+We apply different animation properties
+
+```    
     transition('in => out', animate('0.3s 0.3s ease-in')),
     transition('out => in', animate('0.3s ease-out'))
-  ]),
+  ]),
+```  
 
+The second animation works with the same 'mechanics'
+
+```
   trigger('searchInput', [
+  ]),
     state('out', style({
       opacity: 0,
       width: 0
@@ -228,7 +251,7 @@ animations: [
 ]
 ```
 
-On navsearch.component.ts we need to check for searchBox state
+In our class we need to check for searchBox state
 
 ```
 @select('searchBox') searchBox$: Observable<any>;
@@ -239,11 +262,21 @@ we create a property searchBoxState which we'll use to connect our state with ou
 ```
 searchBoxState: string;
 
-// could work with any name like x or y... I've put state because it's easier to grasp the concept
-this.searchBox$.subscribe( state => {
-    this.searchBoxState = state ? 'in' : 'out';
-})
+constructor (...) {
+  this.searchBox$.subscribe( state => {
+      this.searchBoxState = state ? 'in' : 'out';
+  })
+}
 ```
+
+This means: if searchBox property (from our state) it's true we assign 'in' to searchBoxState property on our class, else we assign 'out'
+
+by default, on our initialState (check line 83 ) we set our searchBox to false, so our element of class main-wrap will start with the state 'out', that means, moved entirely to the left ( left:100% - check line 214 )
+
+
+
+
+
 
 
 
