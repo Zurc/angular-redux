@@ -192,8 +192,8 @@ constructor(
   ...
   private ngRedux: NgRedux<IAppState>,
   private layoutActions: LayoutActions) {}
-  
 ```
+
 Let's see our animations (inside our @Component decorator ) in our navsearch.component.ts
 
 ```
