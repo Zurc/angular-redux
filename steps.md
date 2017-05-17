@@ -232,7 +232,7 @@ We apply different animation properties
   ]),
 ```  
 
-The second animation works with the same 'mechanics'
+The second animation works with the same 'mechanism'
 
 ```
   trigger('searchInput', [
@@ -271,8 +271,12 @@ constructor (...) {
 
 This means: if searchBox property (from our state) it's true we assign 'in' to searchBoxState property on our class, else we assign 'out'
 
-by default, on our initialState (check line 83 ) we set our searchBox to false, so our element of class main-wrap will start with the state 'out', that means, moved entirely to the left ( left:100% - check line 214 )
+by default, on our initialState (check line 83 ) we set our searchBox to false, so our element of class main-wrap will start with the state 'out', that means moved entirely to the left ( left:100% - check line 214 )
 
+
+OK, great! but we are not finished... yet... :)
+
+In our **navsearch.component.html** file we need a close button tide to our 'out' state...
 
 
 
