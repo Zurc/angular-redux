@@ -290,6 +290,12 @@ closeSearchBox() {
 }
 ```
 
+With this we have done:
+
+- component creation (navsearch)
+- reduxified show/hide searchbox actions (tied to header and navsearch components)
+- animations tied to state
+
 
 
 
