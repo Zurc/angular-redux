@@ -296,7 +296,9 @@ With this we have done:
 - reduxified show/hide searchbox actions (tied to header and navsearch components)
 - animations tied to state
 
+To-do: 
 
+- reduxify search itself (request services -success and error handling-, search actions, reducers... )
 
 
 
