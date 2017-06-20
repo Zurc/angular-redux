@@ -14,7 +14,7 @@ import Router:
 import { Router } from '@angular/router';
 ```
 
-and within your method you can redirect...
+and within your method (select on this sample) you can redirect to any of your routes (entities/asset in my case)...
 
 ```
 select(item) {
