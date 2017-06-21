@@ -94,7 +94,9 @@ deleteTag (tag: Tag, entity: Entity) {
       })
       .catch(this.handleError);
 }
-```      
+```
+
+
 
 
 
