@@ -76,5 +76,27 @@ deleteTag (tag: Tag, entity: Entity, hierarchy: String) {
 
 Now on our Store reducers we need to update the state to show the new state without deleted tag
 
+### entity.service.ts
+
+here we do our http.delete request
+
+```
+deleteTag (tag: Tag, entity: Entity) {
+    const jwtoken = localStorage.getItem('token');
+    const headers = new Headers ();
+    headers.append('Authorization', 'Bearer ' + jwtoken);
+    const options = new RequestOptions({headers: headers});
+
+    return this.http.delete(`${this.BASE_URL}/entities/${entity.code}/tags/${tag.key}`, options)
+      .map( (res: Response) => {
+          const body = res.json();
+          return body || {};
+      })
+      .catch(this.handleError);
+}
+```      
+
+
+
 
 
