@@ -5,7 +5,7 @@ What do I want to do? Compare both deletions
 
 Why? On delete tag refreshes UI automatically, is not the case for entities
 
-### Deleting tags
+### Deleting tags (entity-details component)
 
 We have two stages:
 
@@ -44,7 +44,7 @@ HTML
   <i class="fa fa-check"></i>
   <span (click)="confirmDeleteTag(true); areYouSureModal.hide()">Delete</span>
 </button>
-```          
+```
 
 TS
 
@@ -58,5 +58,5 @@ confirmDeleteTag (confirmed: Boolean) {
 }
 ```
 
-
+we call deleteTag method from our actions file...
 
