@@ -32,7 +32,7 @@ deleteTag (tag: Tag, entity: Entity) {
 }
 ```
 
-***2nd Stage:*** when we confirm that we want to delete that tag
+***2nd Stage:*** when we confirm -from the modal- that we want to delete that tag
 
 - fire up confirmation function and call the respective action
 
