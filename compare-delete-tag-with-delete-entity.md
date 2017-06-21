@@ -60,3 +60,21 @@ confirmDeleteTag (confirmed: Boolean) {
 
 we call deleteTag method from our actions file...
 
+### entity.actions.ts
+
+Here we call a service ( to remove element/tag trough HTTP call )...
+
+...and we dispatch the response ( all the other tags -whithout the deleted one - from that entity )
+
+```
+deleteTag (tag: Tag, entity: Entity, hierarchy: String) {
+    this.entityService.deleteTag(tag, entity).subscribe(tags => {
+        this.ngRedux.dispatch({type: DELETE_TAG_SUCCESS, entity: {tags: tag}, hierarchy: hierarchy});
+    });
+}
+```
+
+Now on our Store reducers we need to update the state to show the new state without deleted tag
+
+
+
