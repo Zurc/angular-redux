@@ -104,8 +104,36 @@ deleteTag (tag: Tag, entity: Entity) {
 > 
 > I fix that on the reducer and now updates instantaneously. So I'll double check that on delete...
 
+### reducer.ts
 
+On our reducer function we pass our action type DELETE_TAG_SUCCESS...
 
+```
+case DELETE_TAG_SUCCESS:
+  return deleteTag(state, action);
+```
+
+... and we created auxiliary function deleteTag
+
+```
+function deleteTag (state, action): IAppState {
+    // filter will return all tags, that do not have a key from the dispatched action key
+    const newTagsState = state[action.hierarchy].entity.tags.filter(tag => {
+        return tag[key] !== action.entity.tags[key];
+    });
+
+     return mergeDeep(state, wrapWithKey(action.hierarchy, {
+        entity: {
+            asset_parent: state[action.hierarchy].entity.asset_parent,
+            service_parent: state[action.hierarchy].entity.service_parent,
+            code: state[action.hierarchy].entity.code,
+            name: state[action.hierarchy].entity.name,
+            type: state[action.hierarchy].entity.type,
+            tags: newTagsState
+        }
+    }));
+}
+```
 
 
 
