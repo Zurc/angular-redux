@@ -96,6 +96,16 @@ deleteTag (tag: Tag, entity: Entity) {
 }
 ```
 
+> ***Note***
+
+> At this point I decided to test a bit through the console and redux dev tools, so checking the last on every action and logging to the console before/after functions...
+
+> Doing this I've realized about another bug on updating/editing tag values. On the state it was fine, showing the updated tag, but logging undefined from the reducer auxiliary function... 
+
+> I fix that on the reducer and now updates instantaneously. So I'll double check that on delete...
+
+
+
 
 
 
