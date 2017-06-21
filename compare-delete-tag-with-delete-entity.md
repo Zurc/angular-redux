@@ -36,6 +36,8 @@ deleteTag (tag: Tag, entity: Entity) {
 
 - fire up confirmation function and call the respective action
 
+HTML
+
 ```
 <button type="button"
   class="btn btn-success btn-outline">
@@ -44,6 +46,17 @@ deleteTag (tag: Tag, entity: Entity) {
 </button>
 ```                      
 
+TS
+
+```
+confirmDeleteTag (confirmed: Boolean) {
+  if (confirmed) {
+    this.entityActions.deleteTag(this.tagToDelete, this.entityToDeleteTagFrom, this.hierarchy);
+  } else {
+    console.log('what?');   // not for production, but for fun
+  }
+}
+```
 
 
 
