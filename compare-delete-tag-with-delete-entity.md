@@ -44,7 +44,7 @@ HTML
   <i class="fa fa-check"></i>
   <span (click)="confirmDeleteTag(true); areYouSureModal.hide()">Delete</span>
 </button>
-```                      
+```          
 
 TS
 
